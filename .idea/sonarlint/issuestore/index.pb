@@ -1,0 +1,21 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+g
+7src/main/java/com/unir/gateway/config/MapperConfig.java,f\2\f24352eb1863e0042218bcc78503d8ee206b9097
+q
+Asrc/main/java/com/unir/gateway/decorator/GetRequestDecorator.java,e\4\e4654d27ad6c2ea2fb127b8b8fdf237e816496f1
+r
+Bsrc/main/java/com/unir/gateway/decorator/PostRequestDecorator.java,5\1\5172f08158aa737e9fdff357378a6c7af2b8faa1
+u
+Esrc/main/java/com/unir/gateway/decorator/RequestDecoratorFactory.java,f\b\fb2259c970abacc7dd218d15722b133e8ffd750b
+t
+Dsrc/main/java/com/unir/gateway/decorator/DeleteRequestDecorator.java,2\8\28fcc7dbf601d26a2195a74728e0725399c5cbad
+q
+Asrc/main/java/com/unir/gateway/decorator/PutRequestDecorator.java,d\1\d1d91c0adea1d765caaa66ae587ce68f8f35ddec
+s
+Csrc/main/java/com/unir/gateway/filter/RequestTranslationFilter.java,d\8\d8a8132e12e189a510148c4328db955b6526fb2c
+h
+8src/main/java/com/unir/gateway/model/GatewayRequest.java,d\6\d6df7b1163f699603c3ff3ce522081280572ddf5
+n
+>src/main/java/com/unir/gateway/utils/RequestBodyExtractor.java,f\1\f1bdea5d10d476203bf048a802ee544b740534fb
